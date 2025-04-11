@@ -1,27 +1,13 @@
 ****# automation-devops
-devops-automation-project/
-│
-├── frontend-angular/        # Angular frontend
-├── backend-java/            # Spring Boot backend
-├── oracle-db/               # Docker Oracle setup
-├── terraform/               # AWS Infra scripts
-├── ansible/                 # Ansible provisioning
-├── k8s/                     # Kubernetes manifests
-├── monitoring/              # Prometheus + Grafana config
-├── .github/workflows/       # GitHub Actions workflows
-└── README.md                # Full documentation
-------------------------------------------------------------
 
-Area	         Tool(s)
-Source Control	    Git + GitHub
-Build Automation	Maven (Java), Node.js (Angular)
-CI/CD	            GitHub Actions
-Containerization	Docker
-Orchestration	    Kubernetes / OpenShift
-IaC	                Terraform
-Configuration Mgmt	 Ansible
-Monitoring	         Prometheus + Grafana
-Documentation	     Markdown + GitHub Pages
+
+
+
+
+
+devops-automation-project/
+               
+-----------------------------------------------------------
 ------------------------------------------------------------
 Week-Long DevOps Project Planner (Starting Tomorrow)
 Day	Focus	Tasks
