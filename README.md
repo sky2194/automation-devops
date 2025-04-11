@@ -1,4 +1,4 @@
-# automation-devops
+****# automation-devops
 devops-automation-project/
 │
 ├── frontend-angular/        # Angular frontend
@@ -42,3 +42,4 @@ Day	Focus	Tasks
 7	Monitoring + Documentation	- Add Prometheus + Grafana
 - Finalize README.md and publish docs on GitHub Pages
 -----------------------------
+********
